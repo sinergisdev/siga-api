@@ -1,0 +1,11 @@
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\bin\Debug\netcoreapp3.1\siga.infrastructure.deps.json
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\bin\Debug\netcoreapp3.1\siga.infrastructure.runtimeconfig.json
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\bin\Debug\netcoreapp3.1\siga.infrastructure.runtimeconfig.dev.json
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\bin\Debug\netcoreapp3.1\siga.infrastructure.dll
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\bin\Debug\netcoreapp3.1\siga.infrastructure.pdb
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.AssemblyInfoInputs.cache
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.AssemblyInfo.cs
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.dll
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.pdb
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.infrastructure\obj\Debug\netcoreapp3.1\siga.infrastructure.genruntimeconfig.cache

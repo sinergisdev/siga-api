@@ -1,0 +1,1 @@
+﻿Proyecto que contendrá todos los objetos de transición 

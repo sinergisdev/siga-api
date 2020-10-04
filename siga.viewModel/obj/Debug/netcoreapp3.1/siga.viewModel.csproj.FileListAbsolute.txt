@@ -1,0 +1,9 @@
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\bin\Debug\netcoreapp3.1\siga.viewModel.deps.json
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\bin\Debug\netcoreapp3.1\siga.viewModel.dll
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\bin\Debug\netcoreapp3.1\siga.viewModel.pdb
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.AssemblyInfoInputs.cache
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.AssemblyInfo.cs
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.csproj.CoreCompileInputs.cache
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.dll
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.pdb
+C:\Users\drubilar\Desarrollo\siga.solucion\siga.viewModel\obj\Debug\netcoreapp3.1\siga.viewModel.csprojAssemblyReference.cache
