@@ -1,40 +1,35 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.domain\\siga.domain.csproj": {}
+    "/Users/ext_jaragonj/tmp/siga-api/siga.domain/siga.domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.domain\\siga.domain.csproj": {
+    "/Users/ext_jaragonj/tmp/siga-api/siga.domain/siga.domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.domain\\siga.domain.csproj",
+        "projectUniqueName": "/Users/ext_jaragonj/tmp/siga-api/siga.domain/siga.domain.csproj",
         "projectName": "siga.domain",
-        "projectPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.domain\\siga.domain.csproj",
-        "packagesPath": "C:\\Users\\drubilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.domain\\obj\\",
+        "projectPath": "/Users/ext_jaragonj/tmp/siga-api/siga.domain/siga.domain.csproj",
+        "packagesPath": "/Users/ext_jaragonj/.nuget/packages/",
+        "outputPath": "/Users/ext_jaragonj/tmp/siga-api/siga.domain/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drubilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ext_jaragonj/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\siga.infrastructure.csproj": {
-                "projectPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\siga.infrastructure.csproj"
+              "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/siga.infrastructure.csproj": {
+                "projectPath": "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/siga.infrastructure.csproj"
               },
-              "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\siga.viewModel.csproj": {
-                "projectPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\siga.viewModel.csproj"
+              "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/siga.viewModel.csproj": {
+                "projectPath": "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/siga.viewModel.csproj"
               }
             }
           }
@@ -68,31 +63,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\siga.infrastructure.csproj": {
+    "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/siga.infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\siga.infrastructure.csproj",
+        "projectUniqueName": "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/siga.infrastructure.csproj",
         "projectName": "siga.infrastructure",
-        "projectPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\siga.infrastructure.csproj",
-        "packagesPath": "C:\\Users\\drubilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.infrastructure\\obj\\",
+        "projectPath": "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/siga.infrastructure.csproj",
+        "packagesPath": "/Users/ext_jaragonj/.nuget/packages/",
+        "outputPath": "/Users/ext_jaragonj/tmp/siga-api/siga.infrastructure/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drubilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ext_jaragonj/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -141,31 +131,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\siga.viewModel.csproj": {
+    "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/siga.viewModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\siga.viewModel.csproj",
+        "projectUniqueName": "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/siga.viewModel.csproj",
         "projectName": "siga.viewModel",
-        "projectPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\siga.viewModel.csproj",
-        "packagesPath": "C:\\Users\\drubilar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\drubilar\\Desarrollo\\siga.solucion\\siga.viewModel\\obj\\",
+        "projectPath": "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/siga.viewModel.csproj",
+        "packagesPath": "/Users/ext_jaragonj/.nuget/packages/",
+        "outputPath": "/Users/ext_jaragonj/tmp/siga-api/siga.viewModel/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\drubilar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ext_jaragonj/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -196,7 +181,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
         }
       }
     }

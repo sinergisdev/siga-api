@@ -18,6 +18,11 @@ namespace siga.domain.Services
             _repository = repository;
             _mapper = mapper;
         }
+
+        public UsuarioService(IGenericRepository<Usuario> @object, Mapper mapper)
+        {
+        }
+
         public void Add(UsuarioDTO usuario)
         {
             throw new NotImplementedException();
