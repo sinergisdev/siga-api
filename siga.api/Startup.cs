@@ -1,6 +1,8 @@
 using System;
 using System.Collections.Generic;
+using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text.Json;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -16,6 +18,9 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using siga.domain.Services;
+using siga.domain.Services.Area;
+using siga.domain.Services.Equipo;
+using siga.domain.Services.Faena;
 using siga.infrastructure.Context;
 using siga.infrastructure.Repository;
 
@@ -47,6 +52,9 @@ namespace siga.api
             services.AddScoped(typeof(IGenericRepository<>), typeof(Repository<>));
 
             services.AddTransient<IUsuarioService, UsuarioService>();
+            services.AddTransient<IFaenaService, FaenaService>();
+            services.AddTransient<IAreaService, AreaService>();
+            services.AddTransient<IEquipoService, EquipoService>();
 
             services.AddCors();
     
@@ -71,7 +79,14 @@ namespace siga.api
                         Url = new Uri("https://www.aminerals.cl/"),
                     }
                 });
+
+                // Set the comments path for the Swagger JSON and UI.
+                var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+                var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+                options.IncludeXmlComments(xmlPath);
             });
+
+           
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

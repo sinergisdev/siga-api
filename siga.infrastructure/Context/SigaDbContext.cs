@@ -17,6 +17,10 @@ namespace siga.infrastructure.Context
         }
 
         public virtual DbSet<Usuario> Usuario { get; set; }
+        public virtual DbSet<Faena> Faena { get; set; }
+
+        public virtual DbSet<Area> Area { get; set; }
+        public virtual DbSet<Equipo> Equipo { get; set; }
 
 
 
